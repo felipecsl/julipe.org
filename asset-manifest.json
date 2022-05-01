@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/julipe.org/static/css/main.2eb99670.css",
-    "main.js": "/julipe.org/static/js/main.6f2c1a83.js",
-    "static/js/787.41be7e43.chunk.js": "/julipe.org/static/js/787.41be7e43.chunk.js",
-    "index.html": "/julipe.org/index.html",
-    "main.2eb99670.css.map": "/julipe.org/static/css/main.2eb99670.css.map",
-    "main.6f2c1a83.js.map": "/julipe.org/static/js/main.6f2c1a83.js.map",
-    "787.41be7e43.chunk.js.map": "/julipe.org/static/js/787.41be7e43.chunk.js.map"
+    "main.css": "/static/css/main.2eb99670.css",
+    "main.js": "/static/js/main.3490e029.js",
+    "static/js/787.41be7e43.chunk.js": "/static/js/787.41be7e43.chunk.js",
+    "index.html": "/index.html",
+    "main.2eb99670.css.map": "/static/css/main.2eb99670.css.map",
+    "main.3490e029.js.map": "/static/js/main.3490e029.js.map",
+    "787.41be7e43.chunk.js.map": "/static/js/787.41be7e43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2eb99670.css",
-    "static/js/main.6f2c1a83.js"
+    "static/js/main.3490e029.js"
   ]
 }
