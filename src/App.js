@@ -6,7 +6,7 @@ import { Routes, Route } from "react-router-dom";
 function App() {
   return (
     <Routes>
-      <Route path="rsvp" element={<Rsvp />} />
+      <Route path="/rsvp" element={<Rsvp />} />
       <Route path="/" element={<Home />} />
     </Routes>
   );
